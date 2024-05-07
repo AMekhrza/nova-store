@@ -47,6 +47,7 @@ const Header = (): React.ReactElement => {
         ref={navbar}
         className="flex w-screen items-center justify-between p-4"
       >
+        <title>Nova Store</title>
         <ul className="hidden gap-4 md:flex">
           {links.map(link => (
             <li key={link.name}>

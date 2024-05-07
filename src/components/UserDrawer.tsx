@@ -40,7 +40,7 @@ const UserDrawer = (): React.ReactElement => {
               variant="default"
               className="w-full rounded-full"
               onClick={() => {
-                void signIn('github')
+                // void signIn('github')
               }}
             >
               Log in
@@ -74,7 +74,7 @@ const UserDrawer = (): React.ReactElement => {
                 variant="destructive"
                 className="w-fit rounded-full"
                 onClick={() => {
-                  void signOut()
+                  // void signOut()
                 }}
               >
                 Log out
