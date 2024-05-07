@@ -44,7 +44,7 @@ const UserDrawer = (): React.ReactElement => {
               }}
             >
               Log in
-            </Button>
+            </Button>  
           </div>
         ) : (
           <div className="flex h-[calc(100%-1rem)] w-full flex-col items-center justify-center gap-8 py-16">
