@@ -43,7 +43,7 @@ const Header = (): React.ReactElement => {
 
   return (
     <header className="fixed z-10 backdrop-blur-md">
-      <title>Nova Store</title>  
+      <title>Nova Store</title>   
       <nav
         ref={navbar}
         className="flex w-screen items-center justify-between p-4"
