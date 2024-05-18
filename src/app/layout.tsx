@@ -12,9 +12,9 @@ export const viewport: Viewport = {
   themeColor: '#ffffff',
 }
 export const metadata: Metadata = {
-  title: 'Klip Store',
-  description: 'Klip Store - The Best Online Store in the World',
-  keywords: 'Klip Store, Online Store, Best Online Store',
+  title: 'Nova Store',
+  description: 'Nova Store - The Best Online Store in the World',
+  keywords: 'Nova Store, Online Store, Best Online Store',
   icons: {
     icon: [
       {
@@ -35,10 +35,10 @@ export const metadata: Metadata = {
       },
     ],
   },
-  applicationName: 'Klip Store',
+  applicationName: 'Nova Store',
   manifest: '/site.webmanifest',
   appleWebApp: {
-    title: 'Klip Store',
+    title: 'Nova Store',
   },
 }
 
