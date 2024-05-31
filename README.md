@@ -23,5 +23,3 @@ Welcome to Nova Store.
 - Tailwind
 - Typescript
 
-- ****
-  - Next Auth
