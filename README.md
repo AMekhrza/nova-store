@@ -11,7 +11,7 @@ Welcome to Nova Store.
 
 ## Features
 
-- Fake Store API: Fake store API used for products database.
+- Store API:  store API used for products database.
 - Zustand for Cart management: Explore and save products.
 - Responsive: Prioritizing responsiveness to ensure seamless user interaction across devices.
 
